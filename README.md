@@ -13,9 +13,9 @@ Hi there. I'm a JavaScript and Cyber Security
 ## ⚡ Contact
 
 <div align="center">
-    <a href="https://discord.com/users/809325505304068096" target="_blank"><img src="https://img.shields.io/badge/-VorteX-1e44ee?style=for-the-badge&logo=discord&logoColor=white"></a>
-    <a href="https://github.com/Hyperxyz" target="_blank"><img src="https://img.shields.io/badge/-VorteX-black?style=for-the-badge&logo=github&logoColor=white"></a>
-    <a href="https://discord.gg/xSAPRdQjyN" target="_blank"><img src="https://img.shields.io/badge/-My%20Server-1e44ee?style=for-the-badge&logo=discord&logoColor=white"></a>
+    <a href="https://discord.com/users/564894186386751508" target="_blank"><img src="https://img.shields.io/badge/-Hyper-1e44ee?style=for-the-badge&logo=discord&logoColor=white"></a>
+    <a href="https://github.com/Hyperxyz" target="_blank"><img src="https://img.shields.io/badge/-Hyper-black?style=for-the-badge&logo=github&logoColor=white"></a>
+    <a href="https://discord.gg/y835mfuhjC" target="_blank"><img src="https://img.shields.io/badge/-My%20Server-1e44ee?style=for-the-badge&logo=discord&logoColor=white"></a>
 </div>
 
 
