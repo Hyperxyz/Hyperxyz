@@ -4,7 +4,7 @@
     <img src="https://komarev.com/ghpvc/?username=Hyperxyz&color=red"/>
 </div>  
 
-Hi there. I'm a JavaScript and Cyber Security
+ JavaScript and Cyber Security developer.
 
 <div align="center">
     <a href="https://discord.com/users/564894186386751508" title="Discord Profile"><img src="https://lanyard-profile-readme.vercel.app/api/564894186386751508"></a>
