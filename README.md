@@ -1,4 +1,4 @@
-# ✨ Hi, I am VorteX 
+# ✨ Hyper 
 
 <div align="center">
     <img src="https://komarev.com/ghpvc/?username=Hyperxyz&color=red"/>
