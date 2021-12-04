@@ -21,6 +21,9 @@ Hi there. I'm a JavaScript and Cyber Security
 
 <div align="center">
     <img alt="JavaScript" align="center" src="https://img.shields.io/badge/-Javascript-edb200?style=flat-square&logo=javascript&logoColor=white"/>
+    <img alt="HTML5" align="center" src="https://img.shields.io/badge/-HTML5-E34F26?style=flat-square&logo=html5&logoColor=white"/>
+
+
 </div>
 
 
