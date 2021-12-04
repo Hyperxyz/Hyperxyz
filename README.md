@@ -18,7 +18,6 @@ Hi there. I'm a JavaScript and Cyber Security
     <a href="https://discord.gg/xSAPRdQjyN" target="_blank"><img src="https://img.shields.io/badge/-My%20Server-1e44ee?style=for-the-badge&logo=discord&logoColor=white"></a>
 </div>
 
-## 💻 Languages I Use And Learn
 
 <div align="center">
     <img alt="JavaScript" align="center" src="https://img.shields.io/badge/-Javascript-edb200?style=flat-square&logo=javascript&logoColor=white"/>
