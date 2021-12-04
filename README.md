@@ -10,7 +10,6 @@
     <a href="https://discord.com/users/564894186386751508" title="Discord Profile"><img src="https://lanyard-profile-readme.vercel.app/api/564894186386751508"></a>
 </div>
 
-## ⚡ Contact
 
 <div align="center">
     <a href="https://discord.com/users/564894186386751508" target="_blank"><img src="https://img.shields.io/badge/-Hyper-1e44ee?style=for-the-badge&logo=discord&logoColor=white"></a>
