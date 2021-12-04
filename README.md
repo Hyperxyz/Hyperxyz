@@ -1,24 +1,20 @@
 # ✨ Hi, I am VorteX 
 
 <div align="center">
-    <img src="https://komarev.com/ghpvc/?username=SeonerVorteX&color=blue"/>
+    <img src="https://komarev.com/ghpvc/?username=Hyperxyz&color=red"/>
 </div>  
 
-Hi there. I'm a JavaScript, TypeScript and Python developer. I started software development 10 months ago with developing Discord bots. Now, i continue software development with learning C++, Web Development and Cyber Security.
+Hi there. I'm a JavaScript and Cyber Security
 
 <div align="center">
-    <a href="https://discord.com/users/809325505304068096" title="Discord Profile"><img src="https://lanyard-profile-readme.vercel.app/api/809325505304068096"></a>
-</div>
-
-<div align="center">
-    <a href="https://discord.com/users/624914071984013313" title="Discord Profile"><img src="https://lanyard-profile-readme.vercel.app/api/624914071984013313"></a>
+    <a href="https://discord.com/users/564894186386751508" title="Discord Profile"><img src="https://lanyard-profile-readme.vercel.app/api/564894186386751508"></a>
 </div>
 
 ## ⚡ Contact
 
 <div align="center">
     <a href="https://discord.com/users/809325505304068096" target="_blank"><img src="https://img.shields.io/badge/-VorteX-1e44ee?style=for-the-badge&logo=discord&logoColor=white"></a>
-    <a href="https://github.com/SeonerVorteX" target="_blank"><img src="https://img.shields.io/badge/-VorteX-black?style=for-the-badge&logo=github&logoColor=white"></a>
+    <a href="https://github.com/Hyperxyz" target="_blank"><img src="https://img.shields.io/badge/-VorteX-black?style=for-the-badge&logo=github&logoColor=white"></a>
     <a href="https://discord.gg/xSAPRdQjyN" target="_blank"><img src="https://img.shields.io/badge/-My%20Server-1e44ee?style=for-the-badge&logo=discord&logoColor=white"></a>
 </div>
 
